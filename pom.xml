@@ -31,10 +31,10 @@
 	</build>
 
 	<modules>
-		<module>cz.mzk.recordmanager.server</module>
-		<module>cz.mzk.recordmanager.api</module>
-		<module>cz.mzk.recordmanager.cmdline</module>
-		<module>cz.mzk.recordmanager.webapp</module>
+		<module>cz.mzk.bibliolinker.server</module>
+		<module>cz.mzk.bibliolinker.api</module>
+		<module>cz.mzk.bibliolinker.cmdline</module>
+		<module>cz.mzk.bibliolinker.webapp</module>
 	</modules>
 
 </project>
