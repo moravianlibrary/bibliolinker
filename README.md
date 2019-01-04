@@ -1,1 +1,1 @@
-Bibliolinker (Správce zdrojů) written in Java
+Bibliolinker written in Java
